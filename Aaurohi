@@ -1,0 +1,5 @@
+#!/bin/bash
+for ip in `cat "filepath_here"`
+        do
+                command_here "$ip" &
+done
