@@ -9,7 +9,7 @@ def msg():
 #	   comma separated to retrieve open ports #
 #	Choice 2) Give folder path which has the  #
 #	   files to be converted		  #
-# Author  : Anitha             		          #
+# Author  : Stephan John             		          #
 # Tested in : Linux & Windows 		          #
 ###################################################
 	''')
